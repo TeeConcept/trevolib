@@ -1,0 +1,9 @@
+Importance of Version Control 
+
+*   Collaboration
+*   Backup
+*   Simplifying code management
+*   Time management 
+*   Storing versions
+*   Branching and merging
+*   Code experimentation
